@@ -17,6 +17,9 @@
 
 <details><summary>📌 Deploy to VPS/Local </summary>
 
+#### Deploy on Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/Autoacceptsk)
 
   ```ssh
   git clone https://github.com/NobiDeveloper/Auto-Approve-Bot
